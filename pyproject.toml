@@ -2,6 +2,7 @@
 name = "math-series"
 version = "0.1.0"
 description = ""
+authors = ["Aliya Summers <aliyasummers1@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
